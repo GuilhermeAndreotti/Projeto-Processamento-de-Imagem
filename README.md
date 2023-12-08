@@ -66,14 +66,18 @@ Dentro do terminal, instale as seguintes dependências:
 
 Após abrir o VS CODE, selecione o `<nome-desejado>` como compilador python.
 
-#### 5 - Selecione uma base de imagens e prepare o dataset
+#### 5 - Alimente o dataset
+
+O código no github está sem as imagens de covid e normal devido a serem muitas imagens, nesse caso, é necessário alimentar o dataset com algumas imagens. 
+
+#### 6 - Selecione uma base de imagens e prepare o dataset
 
 Selecione uma base de dados para o dataset, no projeto, foi usado imagens de covid e imagens sem covid. Após isso, rode o arquivo  `data_spliting`.
 
-#### 6 - Rode o descritor LBP.
+#### 7 - Rode o descritor LBP.
 
 Rode o arquivo LBP_Histogram_Extraction para extrair com base no padrão.
 
-#### 7 - Escolha um classificador.
+#### 8 - Escolha um classificador.
 
 Depois disso, escolha um dos classificadores e execute-o. Isso irá gerar uma imagem através do matplotlib que irá apresentar a acurácia.
