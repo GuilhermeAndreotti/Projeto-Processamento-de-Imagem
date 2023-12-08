@@ -32,6 +32,8 @@ Foram obtidos os seguintes resultados durante a execução:
 
 Abaixo, segue um vídeo demonstrando o projeto:
 
+https://www.youtube.com/watch?v=2WGVtY6Kb8g
+
 ### Tutorial de intalação:
 
 Para instalar o projeto, siga os seguintes passos:
